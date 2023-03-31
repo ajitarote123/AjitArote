@@ -3,7 +3,7 @@
 ## Ajit Arote's Portfolio 👨‍💻
 
 <div align="center">
-  <img src="https://i.postimg.cc/mDRLMH1Z/Ajit-Arote.jpg" alt="Wowfolio Demo" width="100%" />
+  <img src="https://i.postimg.cc/PJrCp6xn/Ajit-Arote.png" alt="Wowfolio Demo" width="100%" />
   <br>
 </div>
 
